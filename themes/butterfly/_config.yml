@@ -437,7 +437,7 @@ livere:
 gitalk:
   client_id: 45f0d4fb3b5ff1df93f9
   client_secret: c5435c9c90db4328281727832b2d852b89a887e0
-  repo: https://github.com/etic-0217/etic-blog.git
+  repo: https://github.com/etic-0217/etic-0217.github.io.git
   owner: etic-0217
   admin: etic-0217
   option:
